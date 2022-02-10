@@ -14,4 +14,4 @@ My job is to categorise the countries using some socio-economic and health facto
 - Try both K-means and Hierarchical clustering(both single and complete linkage) on this dataset to create the clusters. Note that both the methods may not produce identical results and you might have to choose one of them for the final list of countries.
 - Analyse the clusters and identify the ones which are in dire need of aid. I can analyse the clusters by comparing how these three variables - [gdpp, child_mort and income] vary for each cluster of countries to recognise and differentiate the clusters of developed countries from the clusters of under-developed countries.
 - Also, I need to perform visualisations on the clusters that have been formed.  I can do this by choosing any two of the three variables mentioned above on the X-Y axes and plotting a scatter plot of all the countries and differentiating the clusters. 
-- 
+- Produce a final list of countries.
